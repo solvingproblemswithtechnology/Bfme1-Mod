@@ -1,0 +1,1 @@
+./tools/x64/big4f.exe 4 src dist/Mod.big
